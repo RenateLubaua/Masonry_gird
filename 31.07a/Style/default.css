@@ -1,0 +1,7 @@
+img{
+    width: Min(20em, 100%);
+    border-radius: 5px;
+}
+*{
+    background-color: rgb(56, 53, 53);
+}
